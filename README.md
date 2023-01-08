@@ -24,5 +24,6 @@ Master
 
 - Visualizations- Easy and simple visualizations for attendance and emotional data’s 
 understanding and analysis
-![image](https://user-images.githubusercontent.com/46550676/211188428-9dd3531f-6a97-4677-a3f9-b2d3ca2ed464.png)
+![image](https://user-images.githubusercontent.com/46550676/211188482-a44d93e4-15a8-4579-8eae-495de3a2c445.png)
+
 
