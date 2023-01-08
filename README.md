@@ -1,5 +1,8 @@
 # portfolio-master-1
 Facial recognition based attendance system- coded in python with computer vision
+Facial  recognition  attendance  system  is  a  solution  for  proxy  and  data  storage.  In  this  system  the  data  is  stored  in  a  more  organized  way  and  there  is  a  less  chance  of  human  error.
+Apart  from  the  punctuality  in  the  fast-revolving  world,  it  is  important  for  institutions  to  create  a  safe  and  healthy  environment  for  students  to  learn  and  grow.
+
 Components
  - Login Page- Login page offers fields to enter role, username and password and lead your way 
 to Portfolio Master.
